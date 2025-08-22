@@ -1,11 +1,11 @@
 ## Minggu 1 – 2: Fondasi Pemrograman Go
-Pengenalan ekosistem Go & instalasi
-Dasar Go: variabel, tipe data, kontrol alur, fungsi
-Pointer & error handling
-Struct, interface, dan package
-Unit testing dasar
-Go modules & dependency management
-Mini Project: CLI sederhana dengan Go
+# Pengenalan ekosistem Go & instalasi
+# Dasar Go: variabel, tipe data, kontrol alur, fungsi
+# Pointer & error handling
+# Struct, interface, dan package
+# Unit testing dasar
+# Go modules & dependency management
+# Mini Project: CLI sederhana dengan Go
 ## Minggu 3 – 4: Backend Fundamentals
 Konsep client-server & HTTP protocol
 Membuat web server dengan net/http
