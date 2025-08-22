@@ -77,16 +77,6 @@ Membuat aplikasi **Production Ready Backend** dengan Go:
 - CI/CD pipeline
 
 
-## 🎯 Hasil Akhir
-Setelah menyelesaikan bootcamp ini, peserta akan:
-- Memahami dasar dan advanced Go programming
-- Mampu membangun REST API & microservices dengan Go
-- Terbiasa dengan PostgreSQL, Redis, dan Message Queue
-- Menguasai praktik security & testing dalam backend
-- Mengerti proses deployment, scaling, serta monitoring aplikasi di cloud
-- Membawa **Capstone Project** siap demo untuk portfolio kerja
-
-
 ## 🚀 Teknologi Utama
 - **Bahasa Pemrograman:** Go (Golang)  
 - **Framework:** Gin / Echo / Fiber  
