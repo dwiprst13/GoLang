@@ -6,8 +6,6 @@ import (
 
 func main() {
 
-	var nama string
-
-	nama = "Dwi Prasetia"
+	var nama string = "Dwi Prasetia"
 	fmt.Println("Nama saya adalah", nama)
 }
