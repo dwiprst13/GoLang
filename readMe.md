@@ -1,4 +1,4 @@
-
+# Project Closed
 
 ### Minggu 1 – 2: Fondasi Pemrograman Go
 - Pengenalan ekosistem Go & instalasi
