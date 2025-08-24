@@ -15,6 +15,6 @@ func PrintMultiples( n int) []string {
 
 func main() {
 	for _, d := range PrintMultiples(6) {
-		fmt.Printf(d)
+		fmt.Printf("%s", d)
 	}
 }
