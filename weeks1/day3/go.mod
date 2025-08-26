@@ -1,0 +1,3 @@
+module weeks1/day3
+
+go 1.23.2
